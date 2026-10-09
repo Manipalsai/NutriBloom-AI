@@ -1,0 +1,6 @@
+{
+  "name": "NutriBloom AI",
+  "description": "Tactile skeuomorphic nutrition and hydration companion featuring AI food scanning, living terrarium garden, and holistic wellness insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
